@@ -3,12 +3,12 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://wallstreetcn.com/live/global
 // @grant       none
-// @version     1.0
+// @version     2.0
 // @author      -
-// @description 2023/1/3 15:02:16
+// @description 2023/3/29 0:17
 // ==/UserScript==
 [...document.querySelectorAll('*')].forEach(item=>{
     item.oncopy = function(e) {
-        e.stopPropagation();
+        navigator.clipboard.writeText(window.getSelection().toString());
     }
 });
