@@ -4,7 +4,7 @@
 // @match       https://wallstreetcn.com/live/global
 // @grant       none
 // @version     2.0
-// @author      -
+// @author      LX
 // @downloadURL https://github.com/bytedynamic/mirror/raw/main/monkey_scripts/remove_copy_tail.user.js
 // @updateURL   https://github.com/bytedynamic/mirror/raw/main/monkey_scripts/remove_copy_tail.user.js
 // @description 2023/3/29 0:17
