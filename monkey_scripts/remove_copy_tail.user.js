@@ -4,11 +4,13 @@
 // @match       https://wallstreetcn.com/*
 // @match       https://*.zhihu.com/*
 // @grant       none
-// @version     2.1
+// @version     2.2
 // @author      LX
-// @downloadURL https://ghproxy.com/https://github.com/bytedynamic/mirror/raw/main/monkey_scripts/remove_copy_tail.user.js
-// @updateURL   https://ghproxy.com/https://github.com/bytedynamic/mirror/raw/main/monkey_scripts/remove_copy_tail.user.js
-// @description 2023/3/29 12:45
+// @supportURL  https://github.com/bytedynamic/mirror/tree/main/monkey_scripts
+// @homepageURL https://github.com/bytedynamic/mirror/tree/main/monkey_scripts
+// @downloadURL https://ghproxy.net/https://raw.githubusercontent.com/bytedynamic/mirror/main/monkey_scripts/remove_copy_tail.user.js
+// @updateURL   https://ghproxy.net/https://raw.githubusercontent.com/bytedynamic/mirror/main/monkey_scripts/remove_copy_tail.user.js
+// @description 2023/3/29 13:55
 // ==/UserScript==
 [...document.querySelectorAll('*')].forEach(item=>{
     item.oncopy = function(e) {
