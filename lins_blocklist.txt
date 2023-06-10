@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Title: LIN'S BLOCK LIST
+
+mail.163.com##.gWel-RGC-big-box > .mailgg
+mail.163.com##div[class="mailgg"]
+mail.163.com##div[title="广告区"]
+tieba.baidu.com##div[id="fixed_bar"]
+tieba.baidu.com##a[class="j_click_stats"]
+tieba.baidu.com##div[id="mediago-tb-frs-list-2"]
+tieba.baidu.com##div[id="pagelet_frs-aside/pagelet/aside_ad"]
+tieba.baidu.com##div.clearfix.thread_item_box
