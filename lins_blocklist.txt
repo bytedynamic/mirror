@@ -10,4 +10,5 @@ tieba.baidu.com##div[id="mediago-tb-frs-list-2"]
 tieba.baidu.com##div[id="pagelet_frs-aside/pagelet/aside_ad"]
 tieba.baidu.com##div.clearfix.thread_item_box
 tieba.baidu.com##div[id^="mediago-tb-frs-list"]
+tieba.baidu.com##ul[class="tbui_slideshow_list"]
 mini.eastday.com##div[id="iSlider-wrapper"]
